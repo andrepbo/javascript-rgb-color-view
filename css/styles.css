@@ -1,0 +1,32 @@
+body { 
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.container {
+  display: flex;
+  max-width: 500px;
+}
+
+.column-text {
+  width: 50px;
+  font-size: large;
+  margin-right: 6px;
+  text-align: right;
+}
+
+.column-range {
+  width: 135px;
+}
+
+.column-input-text {
+  width: 45px;
+}
+
+.column-input-text input {
+  width: 30px;
+}
+
+.column-square{
+  width: 64px;
+  height: 64px;
+}
