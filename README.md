@@ -1,5 +1,5 @@
 <p align="center">
-  <kbd><img src="https://user-images.githubusercontent.com/8798970/87733398-235cbc00-c7a6-11ea-9c40-baf082cd4dc5.gif" /></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/8798970/87734342-bc8cd200-c7a8-11ea-8fa4-77f96d8cbbf4.gif" /></kbd>
 </p>
 <h4 align="center"> 
   RGB Color View
