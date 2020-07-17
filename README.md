@@ -2,7 +2,7 @@
   <kbd><img src="https://user-images.githubusercontent.com/8798970/87734342-bc8cd200-c7a8-11ea-8fa4-77f96d8cbbf4.gif" /></kbd>
 </p>
 <h4 align="center"> 
-  RGB Color View
+  RGB Color View App
 </h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/andrephillipe/">
@@ -23,7 +23,7 @@
 <br />
 
 ## Application
-A simple and objective way to create a RGB color change system by alternating values through sliders. Feel free to use this on your projects.
+A dynamic and objective way to create a RGB color change system by alternating values through sliders. Feel free to use this on your projects.
 
 ## Technologies used in this project:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
